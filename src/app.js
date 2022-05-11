@@ -22,5 +22,5 @@ window.onload = function() {
   };
 
   funcion(pronoun, adj, noun);
-  console;
+  console.log(result);
 };
